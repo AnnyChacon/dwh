@@ -16,7 +16,7 @@ Herramientas utilizadas:
 
 ### Desarrolladores
 * [Loreana Zambrano Campitelli (@loreanazic)](https://github.com/loreanazic)
-* [Anny Chacón (@AnnyEsme27)](https://github.com/AnnyEsme27)
+* [Anny Chacón (@AnnyChacon)](https://github.com/AnnyChacon)
 * [Yuleidy Valladares (@YuleidyVdres)](https://github.com/YuleidyVdres)
 * [Julia Suarez (@JSilversun)](https://github.com/JSilversun)
 * [Gregory Sánchez (@gregsanz182)](https://github.com/gregsanz182)
